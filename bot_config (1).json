@@ -1,0 +1,61 @@
+{
+    "group_id": -1004381105051,
+    "group_name": "Vet Storage",
+    "topic_id": 2,
+    "topic_name": "Lecture Requests",
+    "chat_enabled": true,
+    "track_buttons": true,
+    "track_searches": true,
+    "track_logs": true,
+    "blacklist": [
+        7181782402,
+        7774335702,
+        1820534638,
+        5731687491,
+        5228422882
+    ],
+    "admin_perms": {
+        "987654321": {
+            "add_btn": true
+        },
+        "6666318502": {
+            "del_post": false,
+            "add_post": false,
+            "add_btn": false,
+            "del_btn": false,
+            "broadcast": false
+        }
+    },
+    "shutup_enabled": true,
+    "chat_group_id": -1004326636841,
+    "chat_group_name": "Polite Males Only 👨‍⚕️",
+    "done_paths": [
+        "🔸 Year 1 | Sem 2 > 🦴 | Anatomy > 📚 | Lectures > 📑 | Slides",
+        "🔸 Year 1 | Sem 2 > 🦴 | Anatomy > 📚 | Lectures > ✍ | Summaries",
+        "🔸 Year 1 | Sem 2 > 🦴 | Anatomy > 📚 | Lectures > 🎙️ | Records",
+        "🔸 Year 1 | Sem 2 > 🦴 | Anatomy > 📚 | Lectures > 📹 | Videos & Links",
+        "🔸 Year 1 | Sem 2 > 🦴 | Anatomy",
+        "🔸 Year 1 | Sem 2 > 🐔 | Avian & Fish Anatomy | 🦈",
+        "🔸 Year 1 | Sem 2 > 🐮 | Behaviour",
+        "🔸 Year 1 | Sem 2 > ⛑️ | First Aid > 📚 | Lectures > 📑 | Slides",
+        "🔸 Year 1 | Sem 2 > ⛑️ | First Aid > 📚 | Lectures > 🎤 | Record Summaries",
+        "🔸 Year 1 | Sem 2 > 🏛️ | Heritage",
+        "🔸 Year 1 | Sem 2 > 🫁 | Histology",
+        "🔸 Year 1 | Sem 2 > 🩸 | Physiology > 📚 | Lectures",
+        "🔸 Year 1 | Sem 2 > 🩸 | Physiology",
+        "🔸 Year 1 | Sem 2 > ⛑️ | First Aid",
+        "🔹 Year 1 | Sem 1 > 🦴 | Anatomy",
+        "🔹 Year 1 | Sem 1 > 🐮 | Behaviour",
+        "🔹 Year 1 | Sem 1 > 🧪 | BioChemistry",
+        "🔹 Year 1 | Sem 1 > 📊 | Biostatistics & Computer | 🖥️",
+        "🔹 Year 1 | Sem 1 > 🧬 | Genetics",
+        "🔹 Year 1 | Sem 1 > 🫁 | Histology",
+        "🔹 Year 1 | Sem 1"
+    ],
+    "new_user_group_id": -1004381105051,
+    "new_user_group_name": "Vet Storage",
+    "new_user_topic_id": 171,
+    "new_user_topic_name": "Welcome",
+    "chat_topic_id": null,
+    "chat_topic_name": "General / Direct"
+}
