@@ -13,7 +13,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 
 # --- Static Settings ---
-TELEGRAM_BOT_TOKEN = "7906651993:AAGNWrRYynUUDSxzZDMThAjEHN5JMww1II4"
+TELEGRAM_BOT_TOKEN = "8665759371:AAEXRYisCv8rNkOqFIJ3hzB95skohoXPocU"
 OWNER_ID = 5977859188
 
 # 🛡️ Add as many moderator IDs here as you want, separated by commas
